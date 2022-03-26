@@ -1,0 +1,20 @@
+
+Command 'abc' not found, did you mean:
+
+  command 'bc' from deb bc (1.07.1-2build1)
+  command 'abx' from deb abx (0.0~b1-1build1)
+  command 'arc' from deb arc (5.21q-6)
+  command 'arc' from deb arcanist (0~git20190207-1)
+  command 'asc' from deb asc (2.6.1.0-6build4)
+  command 'nbc' from deb nbc (1.2.1.r4+dfsg-9)
+  command 'axc' from deb afnix (2.9.2-2build1)
+  command 'ajc' from deb aspectj (1.9.2-1)
+  command 'cbc' from deb coinor-cbc (2.10.3+repack1-1build1)
+  command 'abe' from deb abe (1.1+dfsg-3)
+  command 'ab' from deb apache2-utils (2.4.41-4ubuntu3.10)
+  command 'atc' from deb bsdgames (2.17-28build1)
+  command 'aec' from deb libaec-tools (1.0.4-1)
+  command 'ac' from deb acct (6.6.4-2)
+
+Try: sudo apt install <deb name>
+
