@@ -1,8 +1,9 @@
 #!/bin/bash
 function hi() {
-	echo 'hello world'
+	echo hello $1
 }
-echo hello world
+NAME=$@
+echo hello world $NAME
 
 hi
 
